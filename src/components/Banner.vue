@@ -10,7 +10,8 @@
   <script>
   export default {
     name:'Banner',
-    /*data() {
+    /* ee
+    data() {
       return {
         image: 'PersianasCruz/src/assets/images/banner.svg', // Substitua pelo caminho da sua imagem
       };
